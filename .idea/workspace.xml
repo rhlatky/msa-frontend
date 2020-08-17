@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4739e205-1e8c-4098-8310-205fed7182d6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+        <option value="TypeScript File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1g5QlzLxMWMMlnd0D5wW8yalJ7R" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="ts.external.directory.path" value="D:\WebstormProjects\msa-frontend\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\WebstormProjects\msa-frontend\src\plugins\router" />
+      <recent name="D:\WebstormProjects\msa-frontend\src\plugins" />
+      <recent name="D:\WebstormProjects\msa-frontend\src" />
+      <recent name="D:\WebstormProjects\msa-frontend\src\plugins\store" />
+      <recent name="D:\WebstormProjects\msa-frontend" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4739e205-1e8c-4098-8310-205fed7182d6" name="Default Changelist" comment="" />
+      <created>1597402128959</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597402128959</updated>
+      <workItem from="1597402130224" duration="3911000" />
+      <workItem from="1597416802684" duration="326000" />
+      <workItem from="1597417149535" duration="1484000" />
+      <workItem from="1597419464077" duration="2800000" />
+      <workItem from="1597444934048" duration="18241000" />
+      <workItem from="1597507290159" duration="344000" />
+      <workItem from="1597507764201" duration="298000" />
+      <workItem from="1597572851316" duration="11000000" />
+      <workItem from="1597650832863" duration="12256000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1597669372638">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1536.824/-1920.0.1920.1040@0.0.1920.1040" timestamp="1597669372638" />
+    <state x="1286" y="239" key="FileChooserDialogImpl/2560.0.1536.832/0.0.2560.1040@0.0.2560.1040" timestamp="1597458089408" />
+    <state x="784" y="440" key="Github.CreateGistDialog" timestamp="1597417101333">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="784" y="440" key="Github.CreateGistDialog/0.0.1920.1040/1920.0.1536.824/-1920.0.1920.1040@0.0.1920.1040" timestamp="1597417101333" />
+    <state x="829" y="418" width="531" height="204" key="Github.ShareDialog" timestamp="1597669573828">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="829" y="418" width="531" height="204" key="Github.ShareDialog/0.0.1920.1040/1920.0.1536.824/-1920.0.1920.1040@0.0.1920.1040" timestamp="1597669573828" />
+    <state width="617" height="281" key="GridCell.Tab.0.bottom" timestamp="1597507266547">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="617" height="281" key="GridCell.Tab.0.bottom/2560.0.1536.832/0.0.2560.1040@0.0.2560.1040" timestamp="1597507266547" />
+    <state width="617" height="281" key="GridCell.Tab.0.center" timestamp="1597507266547">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="617" height="281" key="GridCell.Tab.0.center/2560.0.1536.832/0.0.2560.1040@0.0.2560.1040" timestamp="1597507266547" />
+    <state width="617" height="281" key="GridCell.Tab.0.left" timestamp="1597507266547">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="617" height="281" key="GridCell.Tab.0.left/2560.0.1536.832/0.0.2560.1040@0.0.2560.1040" timestamp="1597507266547" />
+    <state width="617" height="281" key="GridCell.Tab.0.right" timestamp="1597507266547">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="617" height="281" key="GridCell.Tab.0.right/2560.0.1536.832/0.0.2560.1040@0.0.2560.1040" timestamp="1597507266547" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1597669403960">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1536.824/-1920.0.1920.1040@0.0.1920.1040" timestamp="1597669403960" />
+  </component>
+</project>
